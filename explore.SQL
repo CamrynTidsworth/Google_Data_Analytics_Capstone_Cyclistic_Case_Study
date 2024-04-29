@@ -1,3 +1,4 @@
+
 -- Check for NULL values
 SELECT col_name, COUNT(1) AS nulls_count
 FROM `crack-audio-418512.bike_sharing.combined_tripdata_last12mnths` t,
