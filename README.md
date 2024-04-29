@@ -1,5 +1,6 @@
 # Google_Data_Analytics_Capstone_Cyclistic_Case_Study 
-<img width="619" alt="Screenshot 2024-04-13 at 12 42 44 PM" src="https://github.com/CamrynTidsworth/Google_Data_Analytics_Capstone_Cyclistic_Case_Study/assets/167467192/077e7b77-88ac-4082-af9f-57a605262688">
+![Untitled design](https://github.com/CamrynTidsworth/Google_Data_Analytics_Capstone_Cyclistic_Case_Study/assets/167467192/9f90ea9c-70dd-4557-af84-51b7a161bf4a)
+
 
 # Google Data Analytics Capstone: Analyzing Company Data to Provide Actionable Marketing Insights
 My capstone project for the Google Data Analytics Professional Certificate, a Cyclistic bike share case study.
