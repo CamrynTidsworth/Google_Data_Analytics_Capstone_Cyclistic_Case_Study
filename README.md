@@ -191,4 +191,4 @@ Now that we understand the difference between members and casual riders, what sh
 * Encourage casual riders to integrate cycling into their daily lifestyle, perhaps by emphasizing the health benefits and cost-effectiveness of exercising and commuting by bike. 
 * Focus more physical advertising materials like posters, billboards, etc. in the center of the city where there is the highest density of riders.
 
-Thank you to the Google Data Analytics Professional Certificate for equiping me with the knowledge and skills to complete this case study. I am excited to continue to learn, analyze, and shape data-driven decisions with the tools showcased here. Finally, thank you all for reading this article, and please do not hesitate to offer constructive feedback.  
+Thank you to the Google Data Analytics Professional Certificate for equipping me with the knowledge and skills to complete this case study. I am excited to continue to learn, analyze, and shape data-driven decisions with the tools showcased here. Finally, thank you all for reading this article, and please do not hesitate to offer constructive feedback.  
