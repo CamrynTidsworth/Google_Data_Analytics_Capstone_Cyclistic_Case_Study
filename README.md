@@ -16,8 +16,6 @@ As part of the [Google Data Analytics Professional Certification](https://www.co
 ### Links:
 [Data source](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 4/2/2040]
 
-SQL queries
-
 [Data visualization (Tableau)](https://public.tableau.com/views/BikeShareCaseStudy_17134659071010/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Ask
